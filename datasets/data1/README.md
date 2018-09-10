@@ -1,0 +1,1 @@
+raw-tagged-sentences.txt : created semi-manually, using patterns, as described in the paper.
