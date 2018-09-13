@@ -1,2 +1,2 @@
 *.npy
-modelparams/*
+modelparams/*/*
