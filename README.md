@@ -4,6 +4,8 @@ Code for paper, 'Extracting Entities of Interest from Comparative Product Review
 
 **Paper:** [Extracting Entities of Interest from Comparative Product Reviews](http://cse.iitkgp.ac.in/~pawang/papers/cikm17.pdf)
 
+The dataset and model image of the results presented in the paper can be downloaded from this link, [Model and Dataset](https://zenodo.org/record/1415481#.W5pjkBwScnQ).
+
 ## Basic Idea
 
 While buying a new product, consumers tend to compare products in a similar price range. Not always do the quatitative comparison measures (through product specification), paint the correct picture about the product. Hence, consumers rely on first-hand user experiences by reading through product reviews, on various e-commerce websites, like Amazon, Flipkart, EBay and many more.
