@@ -1,6 +1,8 @@
 MODELS
 ------
 
+This directory contains some of the deep learning models tested on the task.
+
 1. #LSTM Layer = 1, unidirectional, 300-emb-text8, UNK (0), PAD(0)
 2. #LSTM Layer = 2, unidirectional, 300-emb-text8, UNK (0), PAD(0)
 3. #LSTM Layer = 1, bidirectional, 300-emb-text8, UNK (0), PAD(0)		[found to work the best]
@@ -16,4 +18,4 @@ PAD Bit - means, specially, one dimension in the token embedding specially signi
 text8 - refers to the word embeddings prepared from the standard Text-8 English corpus
 elecrev - refers to word embeddings prepared from electronic-product reviews corpus, taken from Amazon.com & Amazon.in
 
-For more details, you may refer the research paper.W
+For more details, you may refer the research paper.

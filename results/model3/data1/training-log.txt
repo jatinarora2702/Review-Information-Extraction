@@ -1,0 +1,1973 @@
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 1.26136744022
+Curr: 10 | Loss: 7.79325959086
+Curr: 20 | Loss: 11.9329113662
+Curr: 30 | Loss: 15.8813280761
+Curr: 40 | Loss: 19.3980253637
+Curr: 50 | Loss: 22.7431415021
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-0
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.371151894331
+Curr: 10 | Loss: 3.46469637752
+Curr: 20 | Loss: 6.33290880919
+Curr: 30 | Loss: 9.28618791699
+Curr: 40 | Loss: 12.10585922
+Curr: 50 | Loss: 14.8457795084
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-1
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.283758580685
+Curr: 10 | Loss: 2.97935095429
+Curr: 20 | Loss: 5.52017425001
+Curr: 30 | Loss: 8.09629790485
+Curr: 40 | Loss: 10.5065772086
+Curr: 50 | Loss: 13.0388310254
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-2
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.259958028793
+Curr: 10 | Loss: 2.6522860378
+Curr: 20 | Loss: 5.07850313187
+Curr: 30 | Loss: 7.47103250027
+Curr: 40 | Loss: 9.7411160022
+Curr: 50 | Loss: 11.998762995
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-3
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.242521062493
+Curr: 10 | Loss: 2.50214475393
+Curr: 20 | Loss: 4.68248930573
+Curr: 30 | Loss: 6.92100161314
+Curr: 40 | Loss: 9.15599966049
+Curr: 50 | Loss: 11.2853845805
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-4
+lr_decay: 0.5
+Running New Epoch
+Curr: 0 | Loss: 0.228707075119
+Curr: 10 | Loss: 2.34634503722
+Curr: 20 | Loss: 4.3872243762
+Curr: 30 | Loss: 6.42572169006
+Curr: 40 | Loss: 8.45783782005
+Curr: 50 | Loss: 10.4702343941
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-5
+lr_decay: 0.25
+Running New Epoch
+Curr: 0 | Loss: 0.220703452826
+Curr: 10 | Loss: 2.22419935465
+Curr: 20 | Loss: 4.21706049144
+Curr: 30 | Loss: 6.23646491766
+Curr: 40 | Loss: 8.23419003189
+Curr: 50 | Loss: 10.2582320273
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-6
+lr_decay: 0.125
+Running New Epoch
+Curr: 0 | Loss: 0.230850294232
+Curr: 10 | Loss: 2.24252443016
+Curr: 20 | Loss: 4.2113520056
+Curr: 30 | Loss: 6.1795553267
+Curr: 40 | Loss: 8.16703034937
+Curr: 50 | Loss: 10.1440726966
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-7
+lr_decay: 0.0625
+Running New Epoch
+Curr: 0 | Loss: 0.214182391763
+Curr: 10 | Loss: 2.22099760175
+Curr: 20 | Loss: 4.20278970897
+Curr: 30 | Loss: 6.14199781418
+Curr: 40 | Loss: 8.13823421299
+Curr: 50 | Loss: 10.1004720777
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-8
+lr_decay: 0.03125
+Running New Epoch
+Curr: 0 | Loss: 0.22359354794
+Curr: 10 | Loss: 2.18574741483
+Curr: 20 | Loss: 4.15696898103
+Curr: 30 | Loss: 6.16382300854
+Curr: 40 | Loss: 8.11744706333
+Curr: 50 | Loss: 10.0781051368
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-9
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.520255863667
+Epoch Complete
+1.04973810911
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.214380279183
+Curr: 10 | Loss: 2.75555211306
+Curr: 20 | Loss: 4.70663782954
+Curr: 30 | Loss: 6.63504715264
+Curr: 40 | Loss: 8.64958241582
+Curr: 50 | Loss: 10.6890422553
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-10
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.218093618751
+Curr: 10 | Loss: 2.25630168617
+Curr: 20 | Loss: 4.16955845058
+Curr: 30 | Loss: 6.09633885324
+Curr: 40 | Loss: 8.1373218745
+Curr: 50 | Loss: 9.98687212169
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-11
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.187643289566
+Curr: 10 | Loss: 2.10008588433
+Curr: 20 | Loss: 4.02117843926
+Curr: 30 | Loss: 5.89692378044
+Curr: 40 | Loss: 7.80039095879
+Curr: 50 | Loss: 9.69256581366
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-12
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.18469825387
+Curr: 10 | Loss: 2.00422947109
+Curr: 20 | Loss: 3.8606043607
+Curr: 30 | Loss: 5.6959002465
+Curr: 40 | Loss: 7.60759073496
+Curr: 50 | Loss: 9.42483617365
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-13
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.201917827129
+Curr: 10 | Loss: 2.10504418612
+Curr: 20 | Loss: 3.86678797007
+Curr: 30 | Loss: 5.6932464242
+Curr: 40 | Loss: 7.47834198177
+Curr: 50 | Loss: 9.30738858879
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-14
+lr_decay: 0.5
+Running New Epoch
+Curr: 0 | Loss: 0.201328709722
+Curr: 10 | Loss: 1.9375641048
+Curr: 20 | Loss: 3.69112186134
+Curr: 30 | Loss: 5.40233241022
+Curr: 40 | Loss: 7.08840368688
+Curr: 50 | Loss: 8.82179245353
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-15
+lr_decay: 0.25
+Running New Epoch
+Curr: 0 | Loss: 0.194261521101
+Curr: 10 | Loss: 1.86214329302
+Curr: 20 | Loss: 3.58075077832
+Curr: 30 | Loss: 5.29113157094
+Curr: 40 | Loss: 7.01033176482
+Curr: 50 | Loss: 8.72217589617
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-16
+lr_decay: 0.125
+Running New Epoch
+Curr: 0 | Loss: 0.182449862361
+Curr: 10 | Loss: 1.87554787099
+Curr: 20 | Loss: 3.56004211307
+Curr: 30 | Loss: 5.27447740734
+Curr: 40 | Loss: 6.9735147059
+Curr: 50 | Loss: 8.69187712669
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-17
+lr_decay: 0.0625
+Running New Epoch
+Curr: 0 | Loss: 0.182689517736
+Curr: 10 | Loss: 1.87423878908
+Curr: 20 | Loss: 3.60671110451
+Curr: 30 | Loss: 5.33064378798
+Curr: 40 | Loss: 7.01041656733
+Curr: 50 | Loss: 8.67370097339
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-18
+lr_decay: 0.03125
+Running New Epoch
+Curr: 0 | Loss: 0.197212010622
+Curr: 10 | Loss: 1.88470864296
+Curr: 20 | Loss: 3.56062404811
+Curr: 30 | Loss: 5.29394774139
+Curr: 40 | Loss: 6.99212372303
+Curr: 50 | Loss: 8.66236923635
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-19
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.188198596239
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.183049961925
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.184029787779
+Curr: 10 | Loss: 1.96261669695
+Curr: 20 | Loss: 3.62571901083
+Curr: 30 | Loss: 5.32815670967
+Curr: 40 | Loss: 6.98086442053
+Curr: 50 | Loss: 8.64975215495
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-20
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.180999904871
+Curr: 10 | Loss: 1.89032705128
+Curr: 20 | Loss: 3.60116653144
+Curr: 30 | Loss: 5.30877427757
+Curr: 40 | Loss: 6.95999342203
+Curr: 50 | Loss: 8.62731832266
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-21
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.183750167489
+Curr: 10 | Loss: 1.89089487493
+Curr: 20 | Loss: 3.56799416244
+Curr: 30 | Loss: 5.23258882761
+Curr: 40 | Loss: 6.91705028713
+Curr: 50 | Loss: 8.60405443609
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-22
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.177959054708
+Curr: 10 | Loss: 1.84823793173
+Curr: 20 | Loss: 3.52452808619
+Curr: 30 | Loss: 5.22508101165
+Curr: 40 | Loss: 6.90052191913
+Curr: 50 | Loss: 8.58463269472
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-23
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.186902120709
+Curr: 10 | Loss: 1.80187922716
+Curr: 20 | Loss: 3.52986133099
+Curr: 30 | Loss: 5.2126442492
+Curr: 40 | Loss: 6.86039845645
+Curr: 50 | Loss: 8.55340754986
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-24
+lr_decay: 0.5
+Running New Epoch
+Curr: 0 | Loss: 0.185030207038
+Curr: 10 | Loss: 1.84163437784
+Curr: 20 | Loss: 3.48167468607
+Curr: 30 | Loss: 5.15071004629
+Curr: 40 | Loss: 6.86113874614
+Curr: 50 | Loss: 8.54525481164
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-25
+lr_decay: 0.25
+Running New Epoch
+Curr: 0 | Loss: 0.182832598686
+Curr: 10 | Loss: 1.87677003443
+Curr: 20 | Loss: 3.55493950844
+Curr: 30 | Loss: 5.2306240797
+Curr: 40 | Loss: 6.87376454473
+Curr: 50 | Loss: 8.53136873245
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-26
+lr_decay: 0.125
+Running New Epoch
+Curr: 0 | Loss: 0.172763124108
+Curr: 10 | Loss: 1.82830949128
+Curr: 20 | Loss: 3.48270501196
+Curr: 30 | Loss: 5.13565833867
+Curr: 40 | Loss: 6.82663094997
+Curr: 50 | Loss: 8.52950902283
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-27
+lr_decay: 0.0625
+Running New Epoch
+Curr: 0 | Loss: 0.185077011585
+Curr: 10 | Loss: 1.86271722615
+Curr: 20 | Loss: 3.51140420139
+Curr: 30 | Loss: 5.19097387791
+Curr: 40 | Loss: 6.81168289483
+Curr: 50 | Loss: 8.52563290298
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-28
+lr_decay: 0.03125
+Running New Epoch
+Curr: 0 | Loss: 0.181804388762
+Curr: 10 | Loss: 1.85772906244
+Curr: 20 | Loss: 3.54276283085
+Curr: 30 | Loss: 5.21115463972
+Curr: 40 | Loss: 6.86689507961
+Curr: 50 | Loss: 8.52536591887
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-29
+lr_decay: 0.015625
+Running New Epoch
+Curr: 0 | Loss: 0.19571185112
+Curr: 10 | Loss: 1.837319538
+Curr: 20 | Loss: 3.49662435055
+Curr: 30 | Loss: 5.18668100238
+Curr: 40 | Loss: 6.82529805601
+Curr: 50 | Loss: 8.52499558032
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-30
+lr_decay: 0.0078125
+Running New Epoch
+Curr: 0 | Loss: 0.186412796378
+Curr: 10 | Loss: 1.86582477391
+Curr: 20 | Loss: 3.51529356837
+Curr: 30 | Loss: 5.17267525196
+Curr: 40 | Loss: 6.83833138645
+Curr: 50 | Loss: 8.52090388536
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-31
+lr_decay: 0.00390625
+Running New Epoch
+Curr: 0 | Loss: 0.189660087228
+Curr: 10 | Loss: 1.84090867639
+Curr: 20 | Loss: 3.48491309583
+Curr: 30 | Loss: 5.14021027088
+Curr: 40 | Loss: 6.80765944719
+Curr: 50 | Loss: 8.53246104717
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-32
+lr_decay: 0.001953125
+Running New Epoch
+Curr: 0 | Loss: 0.196465656161
+Curr: 10 | Loss: 1.87291283906
+Curr: 20 | Loss: 3.52806223929
+Curr: 30 | Loss: 5.16841189563
+Curr: 40 | Loss: 6.8446598053
+Curr: 50 | Loss: 8.52559144795
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-33
+lr_decay: 0.0009765625
+Running New Epoch
+Curr: 0 | Loss: 0.17059032619
+Curr: 10 | Loss: 1.82086451352
+Curr: 20 | Loss: 3.43833741546
+Curr: 30 | Loss: 5.12489877641
+Curr: 40 | Loss: 6.83497810364
+Curr: 50 | Loss: 8.52639178932
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-34
+lr_decay: 0.00048828125
+Running New Epoch
+Curr: 0 | Loss: 0.181055650115
+Curr: 10 | Loss: 1.83395510912
+Curr: 20 | Loss: 3.50114543736
+Curr: 30 | Loss: 5.18029667437
+Curr: 40 | Loss: 6.85056187212
+Curr: 50 | Loss: 8.52439978719
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-35
+lr_decay: 0.000244140625
+Running New Epoch
+Curr: 0 | Loss: 0.188380762935
+Curr: 10 | Loss: 1.85029183328
+Curr: 20 | Loss: 3.48601363599
+Curr: 30 | Loss: 5.13228668272
+Curr: 40 | Loss: 6.85974679887
+Curr: 50 | Loss: 8.5106215179
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-36
+lr_decay: 0.0001220703125
+Running New Epoch
+Curr: 0 | Loss: 0.173190042377
+Curr: 10 | Loss: 1.8524107635
+Curr: 20 | Loss: 3.50437794626
+Curr: 30 | Loss: 5.15854509175
+Curr: 40 | Loss: 6.84188966453
+Curr: 50 | Loss: 8.51580220461
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-37
+lr_decay: 6.103515625e-05
+Running New Epoch
+Curr: 0 | Loss: 0.191337764263
+Curr: 10 | Loss: 1.90280947089
+Curr: 20 | Loss: 3.55896829069
+Curr: 30 | Loss: 5.16976113617
+Curr: 40 | Loss: 6.82436130941
+Curr: 50 | Loss: 8.53197027743
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-38
+lr_decay: 3.0517578125e-05
+Running New Epoch
+Curr: 0 | Loss: 0.186495542526
+Curr: 10 | Loss: 1.86719986796
+Curr: 20 | Loss: 3.54019550979
+Curr: 30 | Loss: 5.18126443028
+Curr: 40 | Loss: 6.82567749918
+Curr: 50 | Loss: 8.52837507427
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-39
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.487737447023
+Epoch Complete
+1.00829324126
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.524375259876
+Epoch Complete
+1.04101473093
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.502629339695
+Epoch Complete
+1.02344709635
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.499883919954
+Epoch Complete
+1.04065546393
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.498964071274
+Epoch Complete
+1.03709352016
+Testing
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.507314860821
+Epoch Complete
+1.04186433554
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.51237308979
+Epoch Complete
+1.02892816067
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.528351426125
+Epoch Complete
+1.09237545729
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.522484660149
+Epoch Complete
+1.10726624727
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.492287904024
+Epoch Complete
+1.02301076055
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.502655744553
+Epoch Complete
+1.01159203053
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.481549352407
+Epoch Complete
+1.04085883498
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.505023539066
+Epoch Complete
+1.03975099325
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.501834690571
+Epoch Complete
+1.04158419371
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.502461254597
+Epoch Complete
+1.04192095995
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.507569134235
+Epoch Complete
+1.04219466448
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.513081490993
+Epoch Complete
+1.04762679338
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.503575086594
+Epoch Complete
+1.03319376707
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.506195962429
+Epoch Complete
+1.04510265589
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.478596359491
+Epoch Complete
+1.03584948182
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.504092276096
+Epoch Complete
+1.03239965439
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.515260994434
+Epoch Complete
+1.03267037868
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.504609525204
+Epoch Complete
+1.0353795886
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.522263646126
+Epoch Complete
+1.03609853983
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.498770475388
+Epoch Complete
+1.02881336212
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.506364524364
+Epoch Complete
+1.03256613016
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.489338934422
+Epoch Complete
+1.02556777
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.507986903191
+Epoch Complete
+1.03737670183
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.493142664433
+Epoch Complete
+1.03082597256
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.485252857208
+Epoch Complete
+1.02876383066
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.500366449356
+Epoch Complete
+1.03785818815
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.498504221439
+Epoch Complete
+1.03457087278
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.504471480846
+Epoch Complete
+1.02565121651
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.50267457962
+Epoch Complete
+1.04064792395
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.509761571884
+Epoch Complete
+1.03133815527
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.178046628833
+Curr: 10 | Loss: 2.46430674195
+Curr: 20 | Loss: 4.14953951538
+Curr: 30 | Loss: 5.86264510453
+Curr: 40 | Loss: 7.55070926249
+Curr: 50 | Loss: 9.34533365071
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-40
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.178869664669
+Curr: 10 | Loss: 1.85995107889
+Curr: 20 | Loss: 3.5679256022
+Curr: 30 | Loss: 5.24485427141
+Curr: 40 | Loss: 7.02340041101
+Curr: 50 | Loss: 8.70078311861
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-41
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.17140416801
+Curr: 10 | Loss: 1.85509084165
+Curr: 20 | Loss: 3.49452289939
+Curr: 30 | Loss: 5.19239868224
+Curr: 40 | Loss: 6.83365182579
+Curr: 50 | Loss: 8.53923891485
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-42
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.160641402006
+Curr: 10 | Loss: 1.78331278265
+Curr: 20 | Loss: 3.43923632801
+Curr: 30 | Loss: 5.06728932261
+Curr: 40 | Loss: 6.74390770495
+Curr: 50 | Loss: 8.41512349248
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-43
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.181599020958
+Curr: 10 | Loss: 1.83823215961
+Curr: 20 | Loss: 3.46803997457
+Curr: 30 | Loss: 5.04298093915
+Curr: 40 | Loss: 6.61359812319
+Curr: 50 | Loss: 8.21875348687
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-44
+lr_decay: 0.5
+Running New Epoch
+Curr: 0 | Loss: 0.173650950193
+Curr: 10 | Loss: 1.74528859556
+Curr: 20 | Loss: 3.30789294839
+Curr: 30 | Loss: 4.8460033536
+Curr: 40 | Loss: 6.41707232594
+Curr: 50 | Loss: 7.97680798173
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-45
+lr_decay: 0.25
+Running New Epoch
+Curr: 0 | Loss: 0.154271319509
+Curr: 10 | Loss: 1.68105308712
+Curr: 20 | Loss: 3.21482683718
+Curr: 30 | Loss: 4.81476743519
+Curr: 40 | Loss: 6.32935519516
+Curr: 50 | Loss: 7.9157037884
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-46
+lr_decay: 0.125
+Running New Epoch
+Curr: 0 | Loss: 0.158530205488
+Curr: 10 | Loss: 1.69285699725
+Curr: 20 | Loss: 3.23294182122
+Curr: 30 | Loss: 4.78714907169
+Curr: 40 | Loss: 6.34210321307
+Curr: 50 | Loss: 7.87849754095
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-47
+lr_decay: 0.0625
+Running New Epoch
+Curr: 0 | Loss: 0.157206907868
+Curr: 10 | Loss: 1.72313383222
+Curr: 20 | Loss: 3.29036901891
+Curr: 30 | Loss: 4.81112036109
+Curr: 40 | Loss: 6.35562808812
+Curr: 50 | Loss: 7.86956565082
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-48
+lr_decay: 0.03125
+Running New Epoch
+Curr: 0 | Loss: 0.160358950496
+Curr: 10 | Loss: 1.70604659617
+Curr: 20 | Loss: 3.21735583246
+Curr: 30 | Loss: 4.76760652661
+Curr: 40 | Loss: 6.27735455334
+Curr: 50 | Loss: 7.86115728319
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-49
+lr_decay: 0.015625
+Running New Epoch
+Curr: 0 | Loss: 0.167200505733
+Curr: 10 | Loss: 1.67859531939
+Curr: 20 | Loss: 3.26083612442
+Curr: 30 | Loss: 4.82833053172
+Curr: 40 | Loss: 6.35797442496
+Curr: 50 | Loss: 7.85971608758
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-50
+lr_decay: 0.0078125
+Running New Epoch
+Curr: 0 | Loss: 0.169261723757
+Curr: 10 | Loss: 1.64925517142
+Curr: 20 | Loss: 3.23065134883
+Curr: 30 | Loss: 4.82143370807
+Curr: 40 | Loss: 6.36125616729
+Curr: 50 | Loss: 7.85562510788
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-51
+lr_decay: 0.00390625
+Running New Epoch
+Curr: 0 | Loss: 0.15877610445
+Curr: 10 | Loss: 1.64484125376
+Curr: 20 | Loss: 3.22285959125
+Curr: 30 | Loss: 4.73952282965
+Curr: 40 | Loss: 6.28944328427
+Curr: 50 | Loss: 7.84179027379
+Epoch Complete
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.156469628215
+Curr: 10 | Loss: 1.87000830472
+Curr: 20 | Loss: 3.54096892476
+Curr: 30 | Loss: 5.14621166885
+Curr: 40 | Loss: 6.68246284127
+Curr: 50 | Loss: 8.25658124685
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-52
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.157635062933
+Curr: 10 | Loss: 1.70273572206
+Curr: 20 | Loss: 3.27097888291
+Curr: 30 | Loss: 4.82592689991
+Curr: 40 | Loss: 6.42251214385
+Curr: 50 | Loss: 7.96613585949
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-53
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.158088847995
+Curr: 10 | Loss: 1.7058442235
+Curr: 20 | Loss: 3.21055680513
+Curr: 30 | Loss: 4.75220508873
+Curr: 40 | Loss: 6.28419165313
+Curr: 50 | Loss: 7.86352784932
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-54
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.168598622084
+Curr: 10 | Loss: 1.73539058864
+Curr: 20 | Loss: 3.22442916036
+Curr: 30 | Loss: 4.71298106015
+Curr: 40 | Loss: 6.25670298934
+Curr: 50 | Loss: 7.78190296888
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-55
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.149095118046
+Curr: 10 | Loss: 1.66068276763
+Curr: 20 | Loss: 3.23263643682
+Curr: 30 | Loss: 4.70822937787
+Curr: 40 | Loss: 6.23584297299
+Curr: 50 | Loss: 7.72959326208
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-56
+lr_decay: 0.5
+Running New Epoch
+Curr: 0 | Loss: 0.16041430831
+Curr: 10 | Loss: 1.56691691279
+Curr: 20 | Loss: 3.03484399617
+Curr: 30 | Loss: 4.49665021896
+Curr: 40 | Loss: 5.94472338259
+Curr: 50 | Loss: 7.43848533928
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-57
+lr_decay: 0.25
+Running New Epoch
+Curr: 0 | Loss: 0.150697723031
+Curr: 10 | Loss: 1.58712497354
+Curr: 20 | Loss: 3.01110468805
+Curr: 30 | Loss: 4.4656791389
+Curr: 40 | Loss: 5.88908091187
+Curr: 50 | Loss: 7.36821575463
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-58
+lr_decay: 0.125
+Running New Epoch
+Curr: 0 | Loss: 0.149915710092
+Curr: 10 | Loss: 1.60820446908
+Curr: 20 | Loss: 3.05148112774
+Curr: 30 | Loss: 4.50108608603
+Curr: 40 | Loss: 5.93367373943
+Curr: 50 | Loss: 7.36361090839
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-59
+lr_decay: 0.0625
+Running New Epoch
+Curr: 0 | Loss: 0.16471812129
+Curr: 10 | Loss: 1.58695068955
+Curr: 20 | Loss: 3.026279971
+Curr: 30 | Loss: 4.48720392585
+Curr: 40 | Loss: 5.91647517681
+Curr: 50 | Loss: 7.35666160285
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-60
+lr_decay: 0.03125
+Running New Epoch
+Curr: 0 | Loss: 0.151490345597
+Curr: 10 | Loss: 1.57738646865
+Curr: 20 | Loss: 3.05893518031
+Curr: 30 | Loss: 4.47660465539
+Curr: 40 | Loss: 5.92123998702
+Curr: 50 | Loss: 7.35685953498
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-61
+lr_decay: 0.015625
+Running New Epoch
+Curr: 0 | Loss: 0.155469074845
+Curr: 10 | Loss: 1.62377619743
+Curr: 20 | Loss: 3.04954998195
+Curr: 30 | Loss: 4.48844777048
+Curr: 40 | Loss: 5.88977335393
+Curr: 50 | Loss: 7.33386896551
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-62
+lr_decay: 0.0078125
+Running New Epoch
+Curr: 0 | Loss: 0.14948540926
+Curr: 10 | Loss: 1.61222441494
+Curr: 20 | Loss: 3.02632285655
+Curr: 30 | Loss: 4.42926242948
+Curr: 40 | Loss: 5.83319045603
+Curr: 50 | Loss: 7.32989169657
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-63
+lr_decay: 0.00390625
+Running New Epoch
+Curr: 0 | Loss: 0.149581134319
+Curr: 10 | Loss: 1.61198979616
+Curr: 20 | Loss: 3.05192345381
+Curr: 30 | Loss: 4.47890464962
+Curr: 40 | Loss: 5.89931762218
+Curr: 50 | Loss: 7.33871851861
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-64
+lr_decay: 0.001953125
+Running New Epoch
+Curr: 0 | Loss: 0.152773916721
+Curr: 10 | Loss: 1.58398653567
+Curr: 20 | Loss: 3.00901688635
+Curr: 30 | Loss: 4.45727300644
+Curr: 40 | Loss: 5.89314718544
+Curr: 50 | Loss: 7.33343601227
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-65
+lr_decay: 0.0009765625
+Running New Epoch
+Curr: 0 | Loss: 0.146117597818
+Curr: 10 | Loss: 1.59403371811
+Curr: 20 | Loss: 3.0405036211
+Curr: 30 | Loss: 4.50866058469
+Curr: 40 | Loss: 5.91693103313
+Curr: 50 | Loss: 7.34089873731
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-66
+lr_decay: 0.00048828125
+Running New Epoch
+Curr: 0 | Loss: 0.150325104594
+Curr: 10 | Loss: 1.59751617908
+Curr: 20 | Loss: 3.04695902765
+Curr: 30 | Loss: 4.46999572217
+Curr: 40 | Loss: 5.91324710846
+Curr: 50 | Loss: 7.33414562047
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-67
+lr_decay: 0.000244140625
+Running New Epoch
+Curr: 0 | Loss: 0.156227484345
+Curr: 10 | Loss: 1.56366354227
+Curr: 20 | Loss: 3.03661496937
+Curr: 30 | Loss: 4.46192276478
+Curr: 40 | Loss: 5.91019360721
+Curr: 50 | Loss: 7.34318257868
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-68
+lr_decay: 0.0001220703125
+Running New Epoch
+Curr: 0 | Loss: 0.150064751506
+Curr: 10 | Loss: 1.60460598767
+Curr: 20 | Loss: 3.07418565452
+Curr: 30 | Loss: 4.4615817219
+Curr: 40 | Loss: 5.91916435957
+Curr: 50 | Loss: 7.34464475513
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-69
+lr_decay: 6.103515625e-05
+Running New Epoch
+Curr: 0 | Loss: 0.155268728733
+Curr: 10 | Loss: 1.61142274737
+Curr: 20 | Loss: 3.02876885235
+Curr: 30 | Loss: 4.46683041751
+Curr: 40 | Loss: 5.92620530725
+Curr: 50 | Loss: 7.34025663137
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-70
+lr_decay: 3.0517578125e-05
+Running New Epoch
+Curr: 0 | Loss: 0.163154885173
+Curr: 10 | Loss: 1.57906109095
+Curr: 20 | Loss: 3.0169916302
+Curr: 30 | Loss: 4.48391358554
+Curr: 40 | Loss: 5.92971944809
+Curr: 50 | Loss: 7.34662383795
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-71
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.559174656868
+Epoch Complete
+1.16915023327
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.490791469812
+Epoch Complete
+1.00402012467
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.550812125206
+Epoch Complete
+1.12574541569
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.499077498913
+Epoch Complete
+1.0069873333
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.493826121092
+Epoch Complete
+0.984899431467
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.499992340803
+Epoch Complete
+1.01867619157
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.512011349201
+Epoch Complete
+1.02791184187
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.503639101982
+Epoch Complete
+1.03167182207
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.509287416935
+Epoch Complete
+1.0148421526
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.487736523151
+Epoch Complete
+1.02212953568
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.51068520546
+Epoch Complete
+1.01296770573
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.489019721746
+Epoch Complete
+1.02195009589
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.500344753265
+Epoch Complete
+1.04896247387
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.486565083265
+Epoch Complete
+1.03201976418
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.502586722374
+Epoch Complete
+1.01564413309
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.512951552868
+Epoch Complete
+1.03018081188
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.487388551235
+Epoch Complete
+0.998443186283
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.518707633018
+Epoch Complete
+1.01438528299
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.524689853191
+Epoch Complete
+1.00389921665
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.4953379035
+Epoch Complete
+0.997336268425
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.49674987793
+Epoch Complete
+1.00772482157
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.503645837307
+Epoch Complete
+0.990144997835
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.505720496178
+Epoch Complete
+1.00284233689
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.499201893806
+Epoch Complete
+1.00635164976
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.486384779215
+Epoch Complete
+0.998694032431
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.503053724766
+Epoch Complete
+0.999531954527
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.502164363861
+Epoch Complete
+1.00112724304
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.4888638556
+Epoch Complete
+1.00452837348
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.49632832408
+Epoch Complete
+1.00577494502
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.494881749153
+Epoch Complete
+0.999297201633
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.511997938156
+Epoch Complete
+1.00052973628
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.145301535726
+Curr: 10 | Loss: 1.68906721473
+Curr: 20 | Loss: 3.23454847932
+Curr: 30 | Loss: 4.76602967083
+Curr: 40 | Loss: 6.25503601134
+Curr: 50 | Loss: 7.70285888016
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-72
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.152510210872
+Curr: 10 | Loss: 1.62763437629
+Curr: 20 | Loss: 3.14879627526
+Curr: 30 | Loss: 4.59567943215
+Curr: 40 | Loss: 6.02620975673
+Curr: 50 | Loss: 7.43994086981
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-73
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.135854959488
+Curr: 10 | Loss: 1.61668816209
+Curr: 20 | Loss: 3.08270192146
+Curr: 30 | Loss: 4.51615156233
+Curr: 40 | Loss: 5.97159816325
+Curr: 50 | Loss: 7.388281703
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-74
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.148262009025
+Curr: 10 | Loss: 1.6576282382
+Curr: 20 | Loss: 3.06213276088
+Curr: 30 | Loss: 4.47244811058
+Curr: 40 | Loss: 5.9696265161
+Curr: 50 | Loss: 7.38536924124
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-75
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.155226662755
+Curr: 10 | Loss: 1.57367191464
+Curr: 20 | Loss: 2.99380660802
+Curr: 30 | Loss: 4.41300164908
+Curr: 40 | Loss: 5.81169673055
+Curr: 50 | Loss: 7.23890484124
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-76
+lr_decay: 0.5
+Running New Epoch
+Curr: 0 | Loss: 0.151928678155
+Curr: 10 | Loss: 1.53669566661
+Curr: 20 | Loss: 2.89026174694
+Curr: 30 | Loss: 4.25909954309
+Curr: 40 | Loss: 5.64993993938
+Curr: 50 | Loss: 7.01048283279
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-77
+lr_decay: 0.25
+Running New Epoch
+Curr: 0 | Loss: 0.148170664907
+Curr: 10 | Loss: 1.49412435293
+Curr: 20 | Loss: 2.86391982436
+Curr: 30 | Loss: 4.2617854923
+Curr: 40 | Loss: 5.65077856928
+Curr: 50 | Loss: 6.97116027027
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-78
+lr_decay: 0.125
+Running New Epoch
+Curr: 0 | Loss: 0.144916191697
+Curr: 10 | Loss: 1.51489529014
+Curr: 20 | Loss: 2.86952476203
+Curr: 30 | Loss: 4.20278736949
+Curr: 40 | Loss: 5.57181549072
+Curr: 50 | Loss: 6.94511161
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-79
+lr_decay: 0.0625
+Running New Epoch
+Curr: 0 | Loss: 0.133763477206
+Curr: 10 | Loss: 1.51737356186
+Curr: 20 | Loss: 2.85425369442
+Curr: 30 | Loss: 4.21559610963
+Curr: 40 | Loss: 5.56676696241
+Curr: 50 | Loss: 6.94330731034
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-80
+lr_decay: 0.03125
+Running New Epoch
+Curr: 0 | Loss: 0.146228089929
+Curr: 10 | Loss: 1.53236491978
+Curr: 20 | Loss: 2.87972652167
+Curr: 30 | Loss: 4.27849515527
+Curr: 40 | Loss: 5.60527536273
+Curr: 50 | Loss: 6.92433831841
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-81
+lr_decay: 0.015625
+Running New Epoch
+Curr: 0 | Loss: 0.143807977438
+Curr: 10 | Loss: 1.51728875935
+Curr: 20 | Loss: 2.86750398576
+Curr: 30 | Loss: 4.21199652553
+Curr: 40 | Loss: 5.55899621546
+Curr: 50 | Loss: 6.92378431559
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-82
+lr_decay: 0.0078125
+Running New Epoch
+Curr: 0 | Loss: 0.131139010191
+Curr: 10 | Loss: 1.49171334505
+Curr: 20 | Loss: 2.86285808682
+Curr: 30 | Loss: 4.19995331019
+Curr: 40 | Loss: 5.56321879476
+Curr: 50 | Loss: 6.91604625434
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-83
+lr_decay: 0.00390625
+Running New Epoch
+Curr: 0 | Loss: 0.156318768859
+Curr: 10 | Loss: 1.4756578356
+Curr: 20 | Loss: 2.83065439016
+Curr: 30 | Loss: 4.18211249262
+Curr: 40 | Loss: 5.53077534586
+Curr: 50 | Loss: 6.90912538767
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-84
+lr_decay: 0.001953125
+Running New Epoch
+Curr: 0 | Loss: 0.147300839424
+Curr: 10 | Loss: 1.50763361901
+Curr: 20 | Loss: 2.88260727376
+Curr: 30 | Loss: 4.21706636995
+Curr: 40 | Loss: 5.56789251417
+Curr: 50 | Loss: 6.92588109523
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-85
+lr_decay: 0.0009765625
+Running New Epoch
+Curr: 0 | Loss: 0.145114988089
+Curr: 10 | Loss: 1.48067647964
+Curr: 20 | Loss: 2.84569229931
+Curr: 30 | Loss: 4.17589408904
+Curr: 40 | Loss: 5.55970963091
+Curr: 50 | Loss: 6.92002917081
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-86
+lr_decay: 0.00048828125
+Running New Epoch
+Curr: 0 | Loss: 0.147881641984
+Curr: 10 | Loss: 1.51175738871
+Curr: 20 | Loss: 2.85238616168
+Curr: 30 | Loss: 4.19325861335
+Curr: 40 | Loss: 5.56612719595
+Curr: 50 | Loss: 6.91622472554
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-87
+lr_decay: 0.000244140625
+Running New Epoch
+Curr: 0 | Loss: 0.155171006918
+Curr: 10 | Loss: 1.49708096683
+Curr: 20 | Loss: 2.84635397047
+Curr: 30 | Loss: 4.20505999774
+Curr: 40 | Loss: 5.57453534752
+Curr: 50 | Loss: 6.92810500413
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-88
+lr_decay: 0.0001220703125
+Running New Epoch
+Curr: 0 | Loss: 0.145551890135
+Curr: 10 | Loss: 1.48091991246
+Curr: 20 | Loss: 2.87877144665
+Curr: 30 | Loss: 4.2389672026
+Curr: 40 | Loss: 5.5614547655
+Curr: 50 | Loss: 6.91482613236
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-89
+lr_decay: 6.103515625e-05
+Running New Epoch
+Curr: 0 | Loss: 0.153634727001
+Curr: 10 | Loss: 1.5016663745
+Curr: 20 | Loss: 2.86563982815
+Curr: 30 | Loss: 4.23667177558
+Curr: 40 | Loss: 5.58647060394
+Curr: 50 | Loss: 6.92406670749
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-90
+lr_decay: 3.0517578125e-05
+Running New Epoch
+Curr: 0 | Loss: 0.137595713139
+Curr: 10 | Loss: 1.47391439229
+Curr: 20 | Loss: 2.83081883192
+Curr: 30 | Loss: 4.21122093499
+Curr: 40 | Loss: 5.55186086148
+Curr: 50 | Loss: 6.91985305399
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-91
+lr_decay: 1.52587890625e-05
+Running New Epoch
+Curr: 0 | Loss: 0.141281843185
+Curr: 10 | Loss: 1.48600505292
+Curr: 20 | Loss: 2.84865921736
+Curr: 30 | Loss: 4.20036231726
+Curr: 40 | Loss: 5.52462793887
+Curr: 50 | Loss: 6.91236911714
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-92
+lr_decay: 7.62939453125e-06
+Running New Epoch
+Curr: 0 | Loss: 0.143453910947
+Curr: 10 | Loss: 1.51791833341
+Curr: 20 | Loss: 2.84250768274
+Curr: 30 | Loss: 4.21038726717
+Curr: 40 | Loss: 5.56944929808
+Curr: 50 | Loss: 6.9217819944
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-93
+lr_decay: 3.81469726562e-06
+Running New Epoch
+Curr: 0 | Loss: 0.15416637063
+Curr: 10 | Loss: 1.50464210659
+Curr: 20 | Loss: 2.88089793175
+Curr: 30 | Loss: 4.23520424962
+Curr: 40 | Loss: 5.59635354578
+Curr: 50 | Loss: 6.92322912812
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-94
+lr_decay: 1.90734863281e-06
+Running New Epoch
+Curr: 0 | Loss: 0.141931772232
+Curr: 10 | Loss: 1.49190355837
+Curr: 20 | Loss: 2.87736216187
+Curr: 30 | Loss: 4.21795882285
+Curr: 40 | Loss: 5.57442422211
+Curr: 50 | Loss: 6.91629950702
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-95
+lr_decay: 9.53674316406e-07
+Running New Epoch
+Curr: 0 | Loss: 0.138701632619
+Curr: 10 | Loss: 1.50852049887
+Curr: 20 | Loss: 2.84832871705
+Curr: 30 | Loss: 4.21771696955
+Curr: 40 | Loss: 5.5831188783
+Curr: 50 | Loss: 6.93149361014
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-96
+lr_decay: 4.76837158203e-07
+Running New Epoch
+Curr: 0 | Loss: 0.143381506205
+Curr: 10 | Loss: 1.51073999703
+Curr: 20 | Loss: 2.85056314617
+Curr: 30 | Loss: 4.18519748002
+Curr: 40 | Loss: 5.54813442379
+Curr: 50 | Loss: 6.91987968236
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-97
+lr_decay: 2.38418579102e-07
+Running New Epoch
+Curr: 0 | Loss: 0.143186882138
+Curr: 10 | Loss: 1.51024603099
+Curr: 20 | Loss: 2.88007441908
+Curr: 30 | Loss: 4.22527097166
+Curr: 40 | Loss: 5.59437336028
+Curr: 50 | Loss: 6.91539132595
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-98
+lr_decay: 1.19209289551e-07
+Running New Epoch
+Curr: 0 | Loss: 0.142763271928
+Curr: 10 | Loss: 1.50567030907
+Curr: 20 | Loss: 2.85955625027
+Curr: 30 | Loss: 4.21786554903
+Curr: 40 | Loss: 5.53983639181
+Curr: 50 | Loss: 6.91839113832
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-99
+lr_decay: 5.96046447754e-08
+Running New Epoch
+Curr: 0 | Loss: 0.144024699926
+Curr: 10 | Loss: 1.48958881199
+Curr: 20 | Loss: 2.84553363919
+Curr: 30 | Loss: 4.18228878081
+Curr: 40 | Loss: 5.55019897223
+Curr: 50 | Loss: 6.91960643232
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-100
+lr_decay: 2.98023223877e-08
+Running New Epoch
+Curr: 0 | Loss: 0.144882589579
+Curr: 10 | Loss: 1.49855156243
+Curr: 20 | Loss: 2.83398682624
+Curr: 30 | Loss: 4.20342583954
+Curr: 40 | Loss: 5.56189601123
+Curr: 50 | Loss: 6.92413136363
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-101
+lr_decay: 1.49011611938e-08
+Running New Epoch
+Curr: 0 | Loss: 0.144015774131
+Curr: 10 | Loss: 1.50371146947
+Curr: 20 | Loss: 2.89668543637
+Curr: 30 | Loss: 4.22637316585
+Curr: 40 | Loss: 5.57363364846
+Curr: 50 | Loss: 6.92081353068
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-102
+lr_decay: 7.45058059692e-09
+Running New Epoch
+Curr: 0 | Loss: 0.145581513643
+Curr: 10 | Loss: 1.5325782299
+Curr: 20 | Loss: 2.8834797442
+Curr: 30 | Loss: 4.22219513357
+Curr: 40 | Loss: 5.56806486845
+Curr: 50 | Loss: 6.92843084037
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-103
+lr_decay: 3.72529029846e-09
+Running New Epoch
+Curr: 0 | Loss: 0.130838185549
+Curr: 10 | Loss: 1.48630896956
+Curr: 20 | Loss: 2.85868830234
+Curr: 30 | Loss: 4.19961196929
+Curr: 40 | Loss: 5.58538683504
+Curr: 50 | Loss: 6.92927097529
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-104
+lr_decay: 1.86264514923e-09
+Running New Epoch
+Curr: 0 | Loss: 0.155199304223
+Curr: 10 | Loss: 1.51698125899
+Curr: 20 | Loss: 2.88073401153
+Curr: 30 | Loss: 4.19380794466
+Curr: 40 | Loss: 5.56006528437
+Curr: 50 | Loss: 6.92792232335
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-105
+lr_decay: 9.31322574615e-10
+Running New Epoch
+Curr: 0 | Loss: 0.139804199338
+Curr: 10 | Loss: 1.50765327364
+Curr: 20 | Loss: 2.84799199551
+Curr: 30 | Loss: 4.20037224144
+Curr: 40 | Loss: 5.57398013026
+Curr: 50 | Loss: 6.92450013757
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-106
+lr_decay: 4.65661287308e-10
+Running New Epoch
+Curr: 0 | Loss: 0.148853048682
+Curr: 10 | Loss: 1.51562705636
+Curr: 20 | Loss: 2.85968637466
+Curr: 30 | Loss: 4.22367033362
+Curr: 40 | Loss: 5.602628842
+Curr: 50 | Loss: 6.92862676084
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-107
+lr_decay: 2.32830643654e-10
+Running New Epoch
+Curr: 0 | Loss: 0.146677836776
+Curr: 10 | Loss: 1.48531819135
+Curr: 20 | Loss: 2.86237873882
+Curr: 30 | Loss: 4.24638543278
+Curr: 40 | Loss: 5.58750107884
+Curr: 50 | Loss: 6.90783692896
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-108
+lr_decay: 1.16415321827e-10
+Running New Epoch
+Curr: 0 | Loss: 0.15477065742
+Curr: 10 | Loss: 1.54364624619
+Curr: 20 | Loss: 2.91392883658
+Curr: 30 | Loss: 4.23657820374
+Curr: 40 | Loss: 5.56880854815
+Curr: 50 | Loss: 6.9288167879
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-109
+lr_decay: 5.82076609135e-11
+Running New Epoch
+Curr: 0 | Loss: 0.149551361799
+Curr: 10 | Loss: 1.46308027208
+Curr: 20 | Loss: 2.84118130803
+Curr: 30 | Loss: 4.16554630548
+Curr: 40 | Loss: 5.567523323
+Curr: 50 | Loss: 6.92038138211
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-110
+lr_decay: 2.91038304567e-11
+Running New Epoch
+Curr: 0 | Loss: 0.15006236732
+Curr: 10 | Loss: 1.4629387781
+Curr: 20 | Loss: 2.7893929705
+Curr: 30 | Loss: 4.1542038992
+Curr: 40 | Loss: 5.53838672489
+Curr: 50 | Loss: 6.9276606515
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-111
+lr_decay: 1.45519152284e-11
+Running New Epoch
+Curr: 0 | Loss: 0.136913567781
+Curr: 10 | Loss: 1.50748850405
+Curr: 20 | Loss: 2.84433799237
+Curr: 30 | Loss: 4.20834752917
+Curr: 40 | Loss: 5.56723806262
+Curr: 50 | Loss: 6.91037222743
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-112
+lr_decay: 7.27595761418e-12
+Running New Epoch
+Curr: 0 | Loss: 0.152652531862
+Curr: 10 | Loss: 1.50385995209
+Curr: 20 | Loss: 2.88513736427
+Curr: 30 | Loss: 4.23454875499
+Curr: 40 | Loss: 5.59405011684
+Curr: 50 | Loss: 6.9251832813
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-113
+lr_decay: 3.63797880709e-12
+Running New Epoch
+Curr: 0 | Loss: 0.15037329495
+Curr: 10 | Loss: 1.53675185144
+Curr: 20 | Loss: 2.85311722755
+Curr: 30 | Loss: 4.21874338388
+Curr: 40 | Loss: 5.57197125256
+Curr: 50 | Loss: 6.93400999159
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-114
+lr_decay: 1.81898940355e-12
+Running New Epoch
+Curr: 0 | Loss: 0.149399206042
+Curr: 10 | Loss: 1.50348101556
+Curr: 20 | Loss: 2.86016464233
+Curr: 30 | Loss: 4.20541346073
+Curr: 40 | Loss: 5.56258165836
+Curr: 50 | Loss: 6.92881450057
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-115
+lr_decay: 9.09494701773e-13
+Running New Epoch
+Curr: 0 | Loss: 0.138706296682
+Curr: 10 | Loss: 1.46012536436
+Curr: 20 | Loss: 2.82875920087
+Curr: 30 | Loss: 4.20887940377
+Curr: 40 | Loss: 5.55948055536
+Curr: 50 | Loss: 6.91805816442
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-116
+lr_decay: 4.54747350886e-13
+Running New Epoch
+Curr: 0 | Loss: 0.131143644452
+Curr: 10 | Loss: 1.49649058282
+Curr: 20 | Loss: 2.8166474998
+Curr: 30 | Loss: 4.19168965518
+Curr: 40 | Loss: 5.56567406654
+Curr: 50 | Loss: 6.91969786584
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-117
+lr_decay: 2.27373675443e-13
+Running New Epoch
+Curr: 0 | Loss: 0.159992486238
+Curr: 10 | Loss: 1.5190563798
+Curr: 20 | Loss: 2.86990904808
+Curr: 30 | Loss: 4.22488699108
+Curr: 40 | Loss: 5.592673935
+Curr: 50 | Loss: 6.92412874848
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-118
+lr_decay: 1.13686837722e-13
+Running New Epoch
+Curr: 0 | Loss: 0.142302960157
+Curr: 10 | Loss: 1.54150904715
+Curr: 20 | Loss: 2.91732425988
+Curr: 30 | Loss: 4.23421345651
+Curr: 40 | Loss: 5.5888158232
+Curr: 50 | Loss: 6.92315159738
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-119
+lr_decay: 5.68434188608e-14
+Running New Epoch
+Curr: 0 | Loss: 0.138802349567
+Curr: 10 | Loss: 1.49672885239
+Curr: 20 | Loss: 2.83992496133
+Curr: 30 | Loss: 4.19557322562
+Curr: 40 | Loss: 5.53505387157
+Curr: 50 | Loss: 6.91701821238
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-120
+lr_decay: 2.84217094304e-14
+Running New Epoch
+Curr: 0 | Loss: 0.142160356045
+Curr: 10 | Loss: 1.50188225508
+Curr: 20 | Loss: 2.82421820611
+Curr: 30 | Loss: 4.1969884634
+Curr: 40 | Loss: 5.57265119255
+Curr: 50 | Loss: 6.91750967503
+Epoch Complete
+Model saved in file: ../modelparams/model3-data3/checkpoint-121
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.470925778151
+Epoch Complete
+1.0031838119
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.526773750782
+Epoch Complete
+1.05327415466
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.468734383583
+Epoch Complete
+1.01089429855
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.474176943302
+Epoch Complete
+0.986792564392
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.522111654282
+Epoch Complete
+1.02223992348
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.514363229275
+Epoch Complete
+1.07266712189
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.491505652666
+Epoch Complete
+0.99223330617
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.477787733078
+Epoch Complete
+0.977271616459
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.485586464405
+Epoch Complete
+0.970264732838
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.493036389351
+Epoch Complete
+0.988147705793
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.49004778266
+Epoch Complete
+0.978375703096
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.51034027338
+Epoch Complete
+0.990265727043
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.494509607553
+Epoch Complete
+0.972403168678
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.489853560925
+Epoch Complete
+0.97597232461
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.482292741537
+Epoch Complete
+0.973837733269
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.507022559643
+Epoch Complete
+0.992848038673
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.48558613658
+Epoch Complete
+0.974078595638
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.472239196301
+Epoch Complete
+0.985825359821
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.482312947512
+Epoch Complete
+0.966819316149
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.47747951746
+Epoch Complete
+0.985594272614
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.498816400766
+Epoch Complete
+0.986775457859
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.480599224567
+Epoch Complete
+0.978770852089
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.489817500114
+Epoch Complete
+0.979175150394
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.472688138485
+Epoch Complete
+0.975084960461
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.465094536543
+Epoch Complete
+0.984290629625
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.489315956831
+Epoch Complete
+1.00198498368
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.49115562439
+Epoch Complete
+1.00344139338
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.49426946044
+Epoch Complete
+0.989381313324
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.485678493977
+Epoch Complete
+0.988990426064
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.504905223846
+Epoch Complete
+0.987503379583
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.489683777094
+Epoch Complete
+0.988016813993
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.494109898806
+Epoch Complete
+0.988373845816
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.493746876717
+Epoch Complete
+0.986910879612
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.492307335138
+Epoch Complete
+0.977205067873
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.515729248524
+Epoch Complete
+0.987944096327
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.490544497967
+Epoch Complete
+0.986295223236
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.489680796862
+Epoch Complete
+0.993439406157
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.497828990221
+Epoch Complete
+0.989009469748
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.481938242912
+Epoch Complete
+0.98662352562
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.49197474122
+Epoch Complete
+0.97691231966
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.480459690094
+Epoch Complete
+0.98459059
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.498475074768
+Epoch Complete
+0.988817512989
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.476323693991
+Epoch Complete
+0.981915324926
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.490767031908
+Epoch Complete
+0.978998750448
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.492119848728
+Epoch Complete
+0.991692483425
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.500829100609
+Epoch Complete
+0.985790044069
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.476054221392
+Epoch Complete
+0.981437593699
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.474753916264
+Epoch Complete
+0.986829936504
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.484422206879
+Epoch Complete
+0.970486491919
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.500443518162
+Epoch Complete
+0.971620380878
+Testing
+lr_decay: 1.0
+Running New Epoch
+Curr: 0 | Loss: 0.494804471731
+Epoch Complete
+0.988149225712
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
+Testing
